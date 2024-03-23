@@ -1,4 +1,4 @@
-module github.com/yourusername/go-component
+module github.com/siddugoudaa/go-component
 
 go 1.17
 
